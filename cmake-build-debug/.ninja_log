@@ -1,0 +1,9 @@
+# ninja log v5
+15	1242	7391154508418741	CMakeFiles/ManEater2.dir/base.cpp.obj	720e9e4898db0663
+3	2211	7288564333356596	CMakeFiles/ManEater2.dir/config.cpp.obj	b38584c780f2eb30
+3	2936	7391163801055290	CMakeFiles/ManEater2.dir/main.cpp.obj	9d0f45e20bb30681
+0	172	7391937294347043	build.ninja	ddd1df90d04ff36e
+2937	3285	7391163803595131	ManEater2.exe	32bc0ca6c6e0db6b
+36	1114	7391154507156898	CMakeFiles/ManEater2.dir/useful.cpp.obj	37be26661c069c10
+27	1148	7391154507482699	CMakeFiles/ManEater2.dir/freegames.cpp.obj	7c25aa4fe04f39c5
+21	3856	7391083357937134	CMakeFiles/ManEater2.dir/stats.cpp.obj	bd16d593ca15c16a
